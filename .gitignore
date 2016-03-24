@@ -5,3 +5,5 @@
 *apk
 */Library/*
 */Temp/*
+*.suo
+obj/
